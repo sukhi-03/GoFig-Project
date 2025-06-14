@@ -1,1 +1,58 @@
-{"breakfast": {"Yoga Bar Super Muesli No Added Sugar (400 g)": 1, "Yoga Bar Fruits Nuts & Seeds Muesli (400 g)": 1, "Yoga Bar Creamy Peanut Butter (400 g)": 1.6, "Yoga Bar Dark Chocolate & Cranberry Muesli (400 g)": 1.6, "Yoga Bar Hazelnut 20g Protein Bar (70 g)": 1, "True Elements Granola Fruit & Nut (450 g)": 1}, "chocolates & cookies": {"Lindt Lindor Irresistibly Smooth Melting White Cornet (200 g)": 1.3, "Lindt Les Grandes Dark Chocolate Hazelnut (150g)": 1, "Lindt Excellence Orange Intense Dark Chocolate (100 g)": 1, "STROOM Cashew Hazelnut Butter Bar (36 g)": 1, "Yoga Bar Double Chocolate 20g bar Protein (70 g)": 1, "Yoga Bar Chocolate Brownie 20g Protein Bar (70 g)": 1, "STROOM Creamy Peanut Butter Energy Bar (36 g)": 1.3, "STROOM Milk Chocolate Peanut Butter (36 g)": 1, "STROOM Dark Chocolate Peanut Butter Energy (36 g)": 1.3, "Open Secret Peanut Butter Story Box - 6 pcs (75 g)": 1.3, "Lindt Swiss Classic Milk with Almond (100 g)": 1, "Imperial Gold Selection Cookies (252 g)": 1, "Lindt Swiss Luxury Selection (143 g)": 1, "Lindt Swiss Classic Milk with Hazelnuts (100 g)": 1, "Lindt Lindor Smooth Melting Milk Chocolate Cornet (500 g)": 1, "Yoga Bar Almond Fudge 20g Protein Bar (70 g)": 1, "Imperial Danish Cookies Blue (200 g)": 1, "Lindt Excellence Dark Caramel with a Touch of Sea Salt (100 g)": 1.3}, "chips & snacks": {"NutsMojo Assorted Flavor Cashew (25 g)": 1.3, "Open Secret Cream and Onion Cashews (60 g)": 1.6, "Cornitos Crusties Rajma Lemon Chilli (50 g)": 1.3, "Cornitos Crusties Rajma King Curry (50 g)": 1.3, "Cornitos Crusties Potato Peri Peri (50 g)": 1.3, "Cornitos Crusties Chana Dilli Chaat (50 g)": 1.6, "Cornitos Crusties Potato Italian Cheese (50 g)": 1.6, "FiT Nutrition Energy Bar | Almonds(73%), Sea Salt & Dark Chocolate (35 g)": 1.3, "True Elements Cheesy Onion Baked Cashews (200 g)": 1}, "beverages": {"Cravova Classic Mojito (300 ml)": 2.5, "Cravova Peach Mojito (300 ml)": 1.3, "Cravova Fresh Lemonade (300 ml)": 1.3, "Lavazza Club Powder Roast & Ground Coffee (250 g)": 1.3, "Lavazza Qualit\u00e1 Oro Roast & Ground Coffee (250 g)": 1, "Lavazza Caff\u00e9 Espresso Roast & Ground Coffee (250 g)": 1.6, "Lavazza Qualit\u00e1 Rossa Roast & Ground Coffee (250 g)": 1}, "protein and health": {"Fit Nutrition Energy Bar| Almond, Apricot and Coconut (35 g)": 1.3}, "meal solutions": {"Mothers Kitchen Punjabi Mango Pickle (180 g)": 1, "Mothers Kitchen Slice Mango Pickle (180 g)": 1, "Cookd Malai Tikka Kit (70 g)": 1}}
+{
+    "breakfast": {
+        "Yoga Bar Super Muesli No Added Sugar (400 g)": 1.3,
+        "Yoga Bar Fruits Nuts & Seeds Muesli (400 g)": 0.39999999999999997,
+        "Yoga Bar Creamy Peanut Butter (400 g)": 4.899999999999999,
+        "Yoga Bar Dark Chocolate & Cranberry Muesli (400 g)": 0.39999999999999997,
+        "Yoga Bar Hazelnut 20g Protein Bar (70 g)": 3.999999999999999,
+        "True Elements Granola Fruit & Nut (450 g)": 0.39999999999999997
+    },
+    "chocolates & cookies": {
+        "Lindt Lindor Irresistibly Smooth Melting White Cornet (200 g)": 0.39999999999999997,
+        "Lindt Les Grandes Dark Chocolate Hazelnut (150g)": 1,
+        "Lindt Excellence Orange Intense Dark Chocolate (100 g)": 6.399999999999998,
+        "STROOM Cashew Hazelnut Butter Bar (36 g)": 2.2,
+        "Yoga Bar Double Chocolate 20g bar Protein (70 g)": 4.899999999999999,
+        "Yoga Bar Chocolate Brownie 20g Protein Bar (70 g)": 1,
+        "STROOM Creamy Peanut Butter Energy Bar (36 g)": 3.0999999999999996,
+        "STROOM Milk Chocolate Peanut Butter (36 g)": 1,
+        "STROOM Dark Chocolate Peanut Butter Energy (36 g)": 3.0999999999999996,
+        "Open Secret Peanut Butter Story Box - 6 pcs (75 g)": 3.999999999999999,
+        "Lindt Swiss Classic Milk with Almond (100 g)": 0.1,
+        "Imperial Gold Selection Cookies (252 g)": 1,
+        "Lindt Swiss Luxury Selection (143 g)": 1,
+        "Lindt Swiss Classic Milk with Hazelnuts (100 g)": 1,
+        "Lindt Lindor Smooth Melting Milk Chocolate Cornet (500 g)": 1,
+        "Yoga Bar Almond Fudge 20g Protein Bar (70 g)": 1,
+        "Imperial Danish Cookies Blue (200 g)": 0.39999999999999997,
+        "Lindt Excellence Dark Caramel with a Touch of Sea Salt (100 g)": 1.3
+    },
+    "chips & snacks": {
+        "NutsMojo Assorted Flavor Cashew (25 g)": 0.7,
+        "Open Secret Cream and Onion Cashews (60 g)": 0.7,
+        "Cornitos Crusties Rajma Lemon Chilli (50 g)": 0.7,
+        "Cornitos Crusties Rajma King Curry (50 g)": 0.7,
+        "Cornitos Crusties Potato Peri Peri (50 g)": 0.7,
+        "Cornitos Crusties Chana Dilli Chaat (50 g)": 1.0,
+        "Cornitos Crusties Potato Italian Cheese (50 g)": 1.0,
+        "FiT Nutrition Energy Bar | Almonds(73%), Sea Salt & Dark Chocolate (35 g)": 1.0,
+        "True Elements Cheesy Onion Baked Cashews (200 g)": 0.39999999999999997
+    },
+    "beverages": {
+        "Cravova Classic Mojito (300 ml)": 0.39999999999999997,
+        "Cravova Peach Mojito (300 ml)": 1,
+        "Cravova Fresh Lemonade (300 ml)": 1,
+        "Lavazza Club Powder Roast & Ground Coffee (250 g)": 0.1,
+        "Lavazza Qualit\u00e1 Oro Roast & Ground Coffee (250 g)": 0.39999999999999997,
+        "Lavazza Caff\u00e9 Espresso Roast & Ground Coffee (250 g)": 0.1,
+        "Lavazza Qualit\u00e1 Rossa Roast & Ground Coffee (250 g)": 0.39999999999999997
+    },
+    "protein and health": {
+        "Fit Nutrition Energy Bar| Almond, Apricot and Coconut (35 g)": 0.1
+    },
+    "meal solutions": {
+        "Mothers Kitchen Punjabi Mango Pickle (180 g)": 0.1,
+        "Mothers Kitchen Slice Mango Pickle (180 g)": 0.1,
+        "Cookd Malai Tikka Kit (70 g)": 0.1
+    }
+}
